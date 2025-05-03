@@ -55,7 +55,8 @@ date: "2025-05-03T08:09:50Z"
 ## Links & Images
 
 - [Visit Apple](https://apple.com)
-- ![Swift Logo](https://swift.org/assets/images/swift.svg)
+
+![Swift Logo](https://swift.org/assets/images/swift.svg)
 
 ---
 
