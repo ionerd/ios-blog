@@ -1,45 +1,81 @@
 ---
-title: Test Title
-description: Test description
+title: MarkdownUI Showcase
+description: A comprehensive test of all MarkdownUI features
 date: "2025-05-03T08:09:50Z"
 ---
 
-# h1 Heading 8-)
+# Heading 1
 
-## h2 Heading
+## Heading 2
 
-### h3 Heading
+### Heading 3
 
-With this markup you can obtain *simple emhpasis* (usually rendered in italic text), **strong emphasis** (usually rend
+#### Heading 4
 
-About
------
+##### Heading 5
 
-You can read the [Wikipedia](http://en.wikipedia.org/wiki/Markdown) article, if you want more information about Markdow
+###### Heading 6
 
-Basic styles
-------------
+---
 
-| foo | bar |
-| --- | --- |
-| baz | bim |
+## Emphasis & Inline Elements
 
-With this markup you can obtain *simple emhpasis* (usually rendered in italic text), **strong emphasis** (usually rendered in bold text), `source code` text (usually rendered in monospaced text), or ~~strikethrough~~ text (usually rendered with a line through text).
+- *Italic* or _Italic_
+- **Bold** or __Bold__
+- ~~Strikethrough~~
+- `Inline code` inside a sentence
+- Mixed _**`emphasis`**_ styles
 
-You may use also _this_ or __this__ notation to emphatize text, and you can use all them _**`together`**_ (and you can mix `*` and `_` )
+---
 
-If you look at the source code you may note that
-even 
-if 
-you 
-break 
-the 
-lines,
-the text is kept together
-in a single paragraph
+## Lists
 
- Paragraphs are delimited by blank lines, leading and trailing spaces are removed 
+### Unordered
 
-You may force a line break with two spaces  
-or with a `\`\
-at the end o
+- First item
+- Second item
+  - Nested item
+  - Another nested item
+
+### Ordered
+
+1. First
+2. Second
+3. Third
+
+---
+
+## Blockquote
+
+> This is a blockquote.  
+> It can span multiple lines.
+
+---
+
+## Links & Images
+
+- [Visit Apple](https://apple.com)
+- ![Swift Logo](https://swift.org/assets/images/swift.svg)
+
+---
+
+## Table
+
+| Name     | Language | Year |
+|----------|----------|------|
+| Swift    | Swift    | 2014 |
+| Kotlin   | Kotlin   | 2011 |
+| Python   | Python   | 1991 |
+
+---
+
+## Code Block
+
+```swift
+import SwiftUI
+
+struct HelloView: View {
+    var body: some View {
+        Text("Hello, MarkdownUI!")
+    }
+}
