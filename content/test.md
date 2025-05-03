@@ -58,15 +58,9 @@ date: "2025-05-03T08:09:50Z"
 
 ![Swift Logo](https://swift.org/assets/images/swift.svg)
 
-    You can also insert images in a line of text, such as
+You can also insert images in a line of text, such as
     ![](https://picsum.photos/id/237/50/25) or
     ![](https://picsum.photos/id/433/50/25).
-
-    ```
-    You can also insert images in a line of text, such as
-    ![](https://picsum.photos/id/237/50/25) or
-    ![](https://picsum.photos/id/433/50/25).
-    ```
 
 ---
 
