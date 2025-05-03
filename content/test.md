@@ -4,14 +4,9 @@
 
 ### h3 Heading
 
-#### h4 Heading
+With this markup you can obtain *simple emhpasis* (usually rendered in italic text), **strong emphasis** (usually rend
 
-##### h5 Heading
+About
+-----
 
-###### h6 Heading
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-# Alt-H1
-
-## Alt-H2
+You can read the [Wikipedia](http://en.wikipedia.org/wiki/Markdown) article, if you want more information about Markdow
