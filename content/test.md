@@ -1,4 +1,4 @@
-–––
+---
 title: "The Architecture of the Renaissance"
 author: 
   - name: "Lorem Ipsum"
@@ -10,7 +10,7 @@ tags:
   - Markdown
 metadata: 
   created_at: "2025-05-03T10:30:00Z"
-–––
+---
 
 # 🏛️ The Architecture of the Renaissance
 
