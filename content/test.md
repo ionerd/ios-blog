@@ -1,16 +1,14 @@
 ---
 title: "The Architecture of the Renaissance"
 description: An exploration of classical rebirth in European architecture
-author: 
-  - name: "Lorem Ipsum"
+author: "Lorem Ipsum"
 draft: false
 year: 2025
 tags: 
   - Technology
   - Writing
   - Markdown
-metadata: 
-  - created_at: 2025-05-03T10:30:00Z
+created_at: 2025-05-03T10:30:00Z
 ---
 
 # 🏛️ The Architecture of the Renaissance
