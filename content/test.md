@@ -1,5 +1,6 @@
 ---
 title: "The Architecture of the Renaissance"
+description: An exploration of classical rebirth in European architecture
 author: 
   - name: "Lorem Ipsum"
 draft: false
