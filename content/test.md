@@ -1,10 +1,16 @@
----
-title: The Architecture of the Renaissance
-description: An exploration of classical rebirth in European architecture
-date: "2025-05-03T10:30:00Z"
-author: Luca Bernardi
-tags: architecture, renaissance, history, europe, art
----
+–––
+title: "The Architecture of the Renaissance"
+author: 
+  - name: "Lorem Ipsum"
+draft: false
+year: 2025
+tags: 
+  - Technology
+  - Writing
+  - Markdown
+metadata: 
+  created_at: "2025-05-03T10:30:00Z"
+–––
 
 # 🏛️ The Architecture of the Renaissance
 
